@@ -1,0 +1,77 @@
+
+
+body {
+  background-color: #d5e1ef;
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Take at least full height of screen */
+  margin: 0; /* remove default margin browsers add */
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+}
+}
+
+img {
+  border-radius: 20px;
+  width: 288px;
+  height: 288px;
+  line-height: 26.40px;
+}
+
+h1 {
+  font-size: 22px;
+  color: #1F314F;
+  padding-top: 25px;
+  margin: 0 auto;
+}
+
+p {
+  color: #68778d;
+  font-family: Outfit;
+  font-weight: 400;
+  padding: 20px 0 10px;
+  letter-spacing: 0.20px;
+  line-height: 21px;
+  margin: 0 auto;
+}
+
+.wrapper h1 {
+  max-width: 100%;
+}
+
+.wrapper p {
+  max-width: 86%;
+}
+
+.wrapper h1,
+.wrapper p {
+  display: block;
+  width: 256px;
+}
+
+.wrapper {
+  max-width: 288px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.wrapper img {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+}
+
+.card {
+  background-color: white;
+  width: 320px;
+  padding: 1.25rem 0.25rem 2rem; /* top and side padding, more bottom padding */
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+}
