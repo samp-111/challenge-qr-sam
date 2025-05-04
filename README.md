@@ -8,8 +8,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/samp-111/challenge-qr-sam
+- Live Site URL: https://qrchallengebysam.netlify.app
 
 ## My process
 
@@ -30,5 +30,4 @@ I want to continue learning how to read these sorts of projects and practice usi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@samp-111](https://www.frontendmentor.io/profile/samp-111)
