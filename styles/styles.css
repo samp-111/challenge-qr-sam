@@ -67,6 +67,7 @@ p {
 .card {
   background-color: white;
   width: 320px;
+  height: 499px;
   padding: 1.25rem 0.25rem 2rem; /* top and side padding, more bottom padding */
   border-radius: 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
